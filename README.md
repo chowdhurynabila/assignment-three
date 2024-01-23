@@ -3,10 +3,10 @@
 
 
 ## Desktop
-# Large Devices
+# Large Devices lg:
 ![My Image](large.png)
 
 
 ## Mobile
-# Small Devices (480px) iphone 14 Pro Max
+# Small Devices sm: iphone 14 Pro Max
 ![My Image](small.png)
